@@ -37,6 +37,8 @@
 
 - [🎮 **Neon World at War**](https://github.com/JuanLeo83/NeonWorldAtWar):  
   Un videojuego arcade inspirado en los clásicos de los 90, desarrollado en Unity.  
+  Se puede descargar [aquí](https://juanleodev.itch.io/neon-war)  
+  [![Aquí tienes un vídeo](https://img.youtube.com/vi/p7wEZCGCjME/0.jpg)](https://www.youtube.com/watch?v=p7wEZCGCjME)
 
 ---
 
